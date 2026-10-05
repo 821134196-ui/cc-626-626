@@ -8,6 +8,8 @@ target/
 dist/
 build/
 *.log
+data/
+uploads/
 .claude/
 .cc-workbench/
 轨迹/
